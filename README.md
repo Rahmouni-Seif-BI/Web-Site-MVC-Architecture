@@ -3,8 +3,6 @@
 # Home
 ![](IMAGES2/camphome.png)
 
-# Admin Login
-![](IMAGES2/adminlog.png)
 
 # Admin Space
 ![](IMAGES2/admin.png)
